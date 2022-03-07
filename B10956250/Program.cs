@@ -21,7 +21,7 @@ namespace B10956250
             int tax_percent = 8;
             int a;
             a = (int)(meal_cost + tip_percent+tax_percent);
-            Console.WriteLine("總額"+a)
+            Console.WriteLine("總額" + a);
 
         }
 
